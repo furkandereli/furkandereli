@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MultiShop](https://github.com/furkandereli/MultiShop)
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **.Net Core Microservice**
 
 - 💬 Ask me about **C# and .Net**
 
