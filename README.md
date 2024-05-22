@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Dereli</h1>
-<h3 align="center">A passionate Backend Developer from Turkey</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 - 🔭 I’m currently working on [MultiShop](https://github.com/furkandereli/MultiShop)
 
