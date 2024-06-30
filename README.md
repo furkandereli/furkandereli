@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furkan Dereli</h1>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=furkandereli&&style=flat-square" align="center" />
+</div>  
+
 <h3 align="center">A passionate Backend Developer</h3>
 
 - 🔭 I’m currently working on [MultiShop](https://github.com/furkandereli/MultiShop)
