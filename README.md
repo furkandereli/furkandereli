@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkandereli&" alt="furkandereli" /></p>
 
-🏆 GitHub Trophies
+<h3> 🏆 GitHub Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=furkandereli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
