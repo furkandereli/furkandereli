@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan DERELİ</h1>More actions
+<h1 align="center">Hi 👋, I'm Furkan DERELİ</h1>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=furkandereli&&style=flat-square" align="center" />
