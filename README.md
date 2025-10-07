@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=furkandereli&&style=flat-square" align="center" />
 </div>  
 
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Backend Focused Full Stack Developer</h3>
 
 - 💬 Ask me about **C# and .Net**
 
